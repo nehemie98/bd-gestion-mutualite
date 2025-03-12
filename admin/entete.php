@@ -20,6 +20,7 @@
                             <i class="fas fa-user-plus"></i> Ajouter un membre
                         </button>
                         <a class="dropdown-item" href="#">Action</a>
+                        <a class="dropdown-item" href="admin.php">Admin Page</a>
                         <a class="dropdown-item" href="#">Another action</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Something else here</a>
